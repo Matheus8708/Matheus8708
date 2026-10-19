@@ -34,15 +34,16 @@
 ### ⚽🥋 Fora do código
 
 - 🐱 Tenho um gato que provavelmente já andou no meu teclado enquanto eu escrevia isso
-- 🏆 De olho em Copa do Mundo e UFC
-- ✈️ Já rodei/tô de olho em Nova York
+- 🏆 De olho em Futebol e Jogos eletrônicos
+  
+
 
 
 
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-didini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
